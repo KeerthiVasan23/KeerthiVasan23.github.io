@@ -15,7 +15,7 @@
 
         $(function() {
             element.typed({
-                strings: ["Hi there!", "Welcome to my website.","",""],
+                strings: ["Passionate", "Curious","Unique","Eternal Learner!"],
                 typeSpeed: 100,
                 loop: true,
             });
